@@ -1,4 +1,3 @@
-<div align="center">
 # 💫 About Me:
 🔭 estagiário em desenvolvimento back-end, com foco em Java + Spring<br>
 
@@ -12,5 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=pedro-s-20&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedro-s-20&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-s-20&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
