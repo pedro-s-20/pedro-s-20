@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 estagiário em desenvolvimento back-end, com foco em Java + Spring<br>
+🔭 Desenvolvedor back-end, com foco em Java + Spring - em processo de migração para fullstack<br>
 
 
 ## 🌐 Socials:
