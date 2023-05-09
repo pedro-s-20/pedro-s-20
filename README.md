@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pedro-s-20&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pedro-s-20&theme=radical&no-frame=false&no-bg=false&margin-w=0)
+![](https://github-profile-trophy.vercel.app/?username=pedro-s-20&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
