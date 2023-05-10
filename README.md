@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🔭 Desenvolvedor Fullstack, com foco em Java + Spring, PHP e Angular.
 
@@ -14,3 +15,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=pedro-s-20&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
