@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 Desenvolvedor Fullstack, com foco em Java + Spring, PHP e Angular.
+🔭 Desenvolvedor Fullstack, com foco em Java + Spring e Angular.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-sousa-a44056255) 
